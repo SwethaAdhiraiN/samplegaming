@@ -1,0 +1,35 @@
+{
+  "score1": {
+    "id": "score1",
+    "user_id": "demo123",
+    "username": "demo",
+    "game_id": "tic-tac-toe",
+    "game_name": "Tic-Tac-Toe",
+    "score": 100,
+    "duration": 45,
+    "won": true,
+    "created_at": "2024-01-15T10:30:00.000Z"
+  },
+  "score2": {
+    "id": "score2",
+    "user_id": "demo123",
+    "username": "demo",
+    "game_id": "memory-match",
+    "game_name": "Memory Match",
+    "score": 85,
+    "duration": 120,
+    "won": true,
+    "created_at": "2024-01-15T11:15:00.000Z"
+  },
+  "score3": {
+    "id": "score3",
+    "user_id": "admin123",
+    "username": "admin",
+    "game_id": "rock-paper-scissors",
+    "game_name": "Rock Paper Scissors",
+    "score": 50,
+    "duration": 30,
+    "won": false,
+    "created_at": "2024-01-15T12:00:00.000Z"
+  }
+}
